@@ -1,7 +1,8 @@
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
-# Guangyu Meng Resume
+# Guangyu Meng 
 
+Tel.: +1-3147451944 E-mail: guangyu.meng@wustl.edu
 
 # 📚 Education
 **Washington University in St. Louis** M.S. in Computer Science(GPA:4.0/4.0)
