@@ -2,7 +2,7 @@
 
 # Guangyu Meng 
 
-Tel.: +1-3147451944，E-mail: guangyu.meng@wustl.edu
+Tel.: +1-3147451444，E-mail: guangyu.meng@wustl.edu
 
 # 📚 Education
 **Washington University in St. Louis** M.S. in Computer Science(GPA:4.0/4.0) 01/2020-05/2021
@@ -17,9 +17,9 @@ Tel.: +1-3147451944，E-mail: guangyu.meng@wustl.edu
 - Graduate Project: Constructing a Variable Pulse Width Laser Detection System
 
 # 📚 Research
-- Guangyu Meng,” Research on denoise by VAE-SRGAN,” accepted by IEEE International Conference on Control and Computer Vision (ICCCV)
-- Guangyu Meng, Zhiqian Chen, “Abrupt Wavelet Network on the traffic accidents impact analysis,” under review by 35th AAAI Conference on Artificial Intelligence.
-- Guangyu Meng, Jiaming Liu, U. S. Kamilov, “Generative adversarial priors for image reconstruction,” in processing.
+- Guangyu Meng,**“ Research on denoise by VAE-SRGAN”** accepted by IEEE International Conference on Control and Computer Vision (ICCCV)
+- Guangyu Meng, Zhiqian Chen, **“Abrupt Wavelet Network on the traffic accidents impact analysis,”** under review by 35th AAAI Conference on Artificial Intelligence.
+- Guangyu Meng, Jiaming Liu, U. S. Kamilov, **“Generative adversarial priors for image reconstruction,”** in processing.
 
 # 📚 Work and Internship Experience
 
