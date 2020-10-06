@@ -8,10 +8,12 @@ The Hugo **Academic Resumé Template** empowers you to create your job-winning o
 
 # 📚 Education
 **Washington University in St. Louis** M.S. in Computer Science(GPA:4.0/4.0)
+
 **The University of Southampton** M.S. in Microelectronics System Design (With Merit Degree)
 - Dissertation Title: Modeling an Artificial Foot and Researching the Position of Sensors
 **The University of Birmingham** B.E. in Electronic Engineering (Honors Class II (division I) Degree)
 - Dissertation Title: Researching Bandpass Filter in High Frequency
+
 **Huazhong University of Science & Technology** B.E. in Electronic Science and Engineering  09/2007-07/2010 
 - Graduate Project: Constructing a Variable Pulse Width Laser Detection System
 
