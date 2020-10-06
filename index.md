@@ -2,7 +2,7 @@
 
 # Guangyu Meng 
 
-Tel.: +1-3147451944 E-mail: guangyu.meng@wustl.edu
+Tel.: +1-3147451944，E-mail: guangyu.meng@wustl.edu
 
 # 📚 Education
 **Washington University in St. Louis** M.S. in Computer Science(GPA:4.0/4.0)
