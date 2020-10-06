@@ -2,15 +2,13 @@
 
 # Guangyu Meng Resume
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
-
-
 
 # 📚 Education
 **Washington University in St. Louis** M.S. in Computer Science(GPA:4.0/4.0)
 
 **The University of Southampton** M.S. in Microelectronics System Design (With Merit Degree)
 - Dissertation Title: Modeling an Artificial Foot and Researching the Position of Sensors
+
 **The University of Birmingham** B.E. in Electronic Engineering (Honors Class II (division I) Degree)
 - Dissertation Title: Researching Bandpass Filter in High Frequency
 
@@ -26,18 +24,22 @@ AAAI Conference on Artificial Intelligence.
 
 # 📚 Work and Internship Experience
 
-Senior Software Engineer and Team Leader, Mentor Graphics Co., Ltd, Shenzhen Office 
+Senior Software Engineer and Team Leader, 
+Mentor Graphics Co., Ltd, Shenzhen Office 
 04/2016 - 11/2019 
 Mentor, a Siemens business, a leader in electronic design automation to enable companies to develop electronic products faster and more cost-effectively.
-- Ledtheprojectofprovidinghigh-performancesystemverificationsolutionsfortheworld’sfirstcommercial5Gchipsetdesigned by Huawei Technologies Co., Ltd
-- OptimizedHuawei’stestingcodebytransformingsequentialexecutiontoparallelexecution,reducingruntimefrom45minutes to less than 8 minutes
-- Promotedthecompany’snewlicensedtechnology(VeloceCoverageApp)forcodecoverage;gavepresentationsontheannual technical forum at the Silicon Valley Headquarter and took charge of the training programming for Huawei
+- Led the project of providing high-performance system verificationsolutions for the world’s first commercial 5G chipset 
+- Optimized testing code by transforming sequential execution to parallel execution,reducing runtime from 45 minutes to less than 8 minutes
+- Promoted the company’s new licensed technology(VeloceCoverageApp) for codecoverage; gave presentations on the annual technical forum at the Silicon Valley Headquarter and took charge of the training programming for Huawei
 - Liaised between the Shenzhen office and the headquarters in Silicon Valley and Europe; traveled to Fremont as a technical support representative and guest speaker
-ASIC Design Engineer, Spreadtrum Communications Co., LTD, Shanghai Office 01/2015-04/2016
+
+ASIC Design Engineer, 
+Spreadtrum Communications Co., LTD, Shanghai Office 01/2015-04/2016
 - Built-up and maintained module-level and chip-level emulation environment; leveraged popular simulation acceleration
 technology (like Palladium or Protium prototyping) in building a modularized and scalable simulation platform
 - Developed an emulation resource allocation program in Python to facilitate resource management, resulted in a 20% increase in device utilization rate; developed a Desktop GUI application to help engineers from the project team to use specific
 commands of our systems conveniently, freed our engineers from answering basic questions repeatedly
+
 New Product Introduction (NPI) Engineer, Freescale Semiconductor, Inc., Shanghai Office 01/2013-01/2015
 - Responsible for product line management, new package assembly design, and packaging process optimization
 - Handled wafer mapping process; improved die bond machine capacity by 14.8% (from 3k to 3.45 die/hour)
