@@ -1,32 +1,58 @@
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+# Guangyu Meng 
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+Tel.: +1-3147451444，E-mail: Guangyu.Meng@wustl.edu
+My research interests include Computer Vision, especially in object detection, image segmentation and understanding, and image captioning. 
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+# 📚 Education
+**Washington University in St. Louis** M.S. in Computer Science(GPA:4.0/4.0) 01/2020-05/2021
 
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+**The University of Southampton** M.S. in Microelectronics System Design (With Merit Degree)09/2011-12/2012
+- Dissertation Title: Modeling an Artificial Foot and Researching the Position of Sensors
 
-## Crowd-funded open-source software
+**The University of Birmingham** B.E. in Electronic Engineering (Honors Class II (division I) Degree)09/2010-07/2011
+- Dissertation Title: Researching Bandpass Filter in High Frequency
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+**Huazhong University of Science & Technology** B.E. in Electronic Science and Engineering  09/2007-07/2010 
+- Graduate Project: Constructing a Variable Pulse Width Laser Detection System
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+# 📚 Research
+- Guangyu Meng,” Research on denoise by VAE-SRGAN,” accepted by IEEE International Conference on Control and Computer Vision (ICCCV)
+- Guangyu Meng, Zhiqian Chen, “Abrupt Wavelet Network on the traffic accidents impact analysis,” under review by 35th AAAI Conference on Artificial Intelligence.
+- Guangyu Meng, Jiaming Liu, U. S. Kamilov, “Generative adversarial priors for image reconstruction,” in processing.
 
-## Ecosystem
+# 📚 Work and Internship Experience
 
-* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
+Senior Software Engineer and Team Leader, 
+**Mentor Graphics Co., Ltd, Shenzhen Office** 
+04/2016 - 11/2019 
+Mentor, a Siemens business, a leader in electronic design automation to enable companies to develop electronic products faster and more cost-effectively.
+- Led the project of providing high-performance system verificationsolutions for the world’s first commercial 5G chipset 
+- Optimized testing code by transforming sequential execution to parallel execution,reducing runtime from 45 minutes to less than 8 minutes
+- Promoted the company’s new licensed technology(VeloceCoverageApp) for codecoverage; gave presentations on the annual technical forum at the Silicon Valley Headquarter and took charge of the training programming for Huawei
+- Liaised between the Shenzhen office and the headquarters in Silicon Valley and Europe; traveled to Fremont as a technical support representative and guest speaker
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
+ASIC Design Engineer, 
+**Spreadtrum Communications Co., LTD, Shanghai Office 01/2015-04/2016**
+- Built-up and maintained module-level and chip-level emulation environment; leveraged popular simulation acceleration
+technology (like Palladium or Protium prototyping) in building a modularized and scalable simulation platform
+- Developed an emulation resource allocation program in Python to facilitate resource management, resulted in a 20% increase in device utilization rate; developed a Desktop GUI application to help engineers from the project team to use specific
+commands of our systems conveniently, freed our engineers from answering basic questions repeatedly
 
-<!--
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
--->
+New Product Introduction (NPI) Engineer, 
+**Freescale Semiconductor, Inc., 01/2013-01/2015**
+- Responsible for product line management, new package assembly design, and packaging process optimization
+- Handled wafer mapping process; improved die bond machine capacity by 14.8% (from 3k to 3.45 die/hour)
+
+
+
+# 💡 Certificates and Awards in Artificial Intelligence
+- Ranked the top 3% in the " Global Wheat Detection" by Kaggle Competition, 2020
+- Ranked the top 1% in the Tencent Advertising Algorithm Competition hosted by Tencent Holdings 03/2018-07/2018 
+- Obtained Certificate of Achievement from Baidu bypassing the “ABC” (AI, BigData, Cloud) qualification test 09/2018
+- Technical Skills: Python, Java, Perl, C/C++, MATLAB, VHDL, Verilog, System C, System Verilog
+- GRE: 152(verbal)+170(Quantitative)+3.0(Analytical Writing) TOFEL: 100: R 27, L 27, S 22, W 24
+
+
