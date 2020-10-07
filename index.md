@@ -50,7 +50,7 @@ ASIC Design Engineer<br/>
 technology (like Palladium or Protium prototyping) in building a modularized and scalable simulation platform
 - Developed an emulation resource allocation program in Python to facilitate resource management, resulted in a 20% increase in device utilization rate; developed a Desktop GUI application to help engineers from the project team to use specific commands of our systems conveniently, freed our engineers from answering basic questions repeatedly
 
-**Freescale Semiconductor, Inc.,** <br/>                     01/2013-01/2015<br/>
+**Freescale Semiconductor, Inc.,**                           01/2013-01/2015<br/>
 New Product Introduction (NPI) Engineer<br/>
 - Responsible for product line management, new package assembly design, and packaging process optimization
 - Handled wafer mapping process; improved die bond machine capacity by 14.8% (from 3k to 3.45 die/hour)
