@@ -2,7 +2,10 @@
 
 # Guangyu Meng 
 
-Tel.: +1-3147451444，E-mail: guangyu.meng@wustl.edu
+Tel.: +1-3147451444，E-mail: Guangyu.Meng@wustl.edu
+
+Guangyu Meng is a graduate student of Computer Science at the WashU Computational Imaging Lab. His research interests include Computer Vision, especially in object detection, image segmentation and understanding, and image captioning. 
+
 
 # 📚 Education
 **Washington University in St. Louis** M.S. in Computer Science(GPA:4.0/4.0) 01/2020-05/2021
@@ -16,13 +19,14 @@ Tel.: +1-3147451444，E-mail: guangyu.meng@wustl.edu
 **Huazhong University of Science & Technology** B.E. in Electronic Science and Engineering  09/2007-07/2010 
 - Graduate Project: Constructing a Variable Pulse Width Laser Detection System
 
+
 # 📚 Research
 - Guangyu Meng,**“ Research on denoise by VAE-SRGAN”** accepted by IEEE International Conference on Control and Computer Vision (ICCCV)
 - Guangyu Meng, Zhiqian Chen, **“Abrupt Wavelet Network on the traffic accidents impact analysis,”** under review by 35th AAAI Conference on Artificial Intelligence.
 - Guangyu Meng, Jiaming Liu, U. S. Kamilov, **“Generative adversarial priors for image reconstruction,”** in processing.
 
-# 📚 Work and Internship Experience
 
+# 📚 Work and Internship Experience
 Senior Software Engineer and Team Leader, 
 **Mentor Graphics Co., Ltd, Shenzhen Office** 
 04/2016 - 11/2019 
@@ -43,7 +47,6 @@ New Product Introduction (NPI) Engineer,
 **Freescale Semiconductor, Inc., 01/2013-01/2015**
 - Responsible for product line management, new package assembly design, and packaging process optimization
 - Handled wafer mapping process; improved die bond machine capacity by 14.8% (from 3k to 3.45 die/hour)
-
 
 
 # 💡 Certificates and Awards in Artificial Intelligence
