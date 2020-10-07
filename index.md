@@ -30,7 +30,7 @@ Guangyu Meng is a graduate student of Computer Science at the WashU Computationa
 Teaching Assistant of Machine Learning 2020.9-2020.12 
 **Washington University in St. Louis**
 
-Senior Software Engineer and Team Leader, 
+Senior Software Engineer and Team Leader/
 **Mentor Graphics Co., Ltd, Shenzhen Office** 
 04/2016 - 11/2019 
 - Led the project of providing high-performance system verificationsolutions for the world’s first commercial 5G chipset 
