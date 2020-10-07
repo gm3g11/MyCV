@@ -2,23 +2,27 @@
 
 # Guangyu Meng 
 
-![alt text](avatar.jpg)
+
 
 Tel: 314 745 1444，E-mail: Guangyu.Meng@wustl.edu
 
-Guangyu Meng is a graduate student of Computer Science at the WashU Computational Imaging Lab. His research interests include **_Computer Vision_**, especially in object detection, image segmentation and understanding, and image captioning. 
+Guangyu Meng is a graduate student of Computer Science at the WashU Computational Imaging Lab. His research interests include **Computer Vision**, especially in object detection, image segmentation and understanding, and image captioning. 
 
 
 ## 📚 Education
-**Washington University in St. Louis** M.S. in Computer Science(GPA:4.0/4.0) 01/2020-05/2021
+**Washington University in St. Louis** <br/>
+M.S. in Computer Science(GPA:4.0/4.0) 01/2020-05/2021
 
-**The University of Southampton** M.S. in Microelectronics System Design (With Merit Degree)09/2011-12/2012
+**The University of Southampton** <br/>
+M.S. in Microelectronics System Design (With Merit Degree)09/2011-12/2012
 - Dissertation Title: Modeling an Artificial Foot and Researching the Position of Sensors
 
-**The University of Birmingham** B.E. in Electronic Engineering (Honors Class II (division I) Degree)09/2010-07/2011
+**The University of Birmingham** <br/>
+B.E. in Electronic Engineering (Honors Class II (division I) Degree)09/2010-07/2011
 - Dissertation Title: Researching Bandpass Filter in High Frequency
 
-**Huazhong University of Science & Technology** B.E. in Electronic Science and Engineering  09/2007-07/2010 
+**Huazhong University of Science & Technology** <br/>
+B.E. in Electronic Science and Engineering  09/2007-07/2010 
 - Graduate Project: Constructing a Variable Pulse Width Laser Detection System
 
 
@@ -28,26 +32,25 @@ Guangyu Meng is a graduate student of Computer Science at the WashU Computationa
 - Guangyu Meng, Jiaming Liu, U. S. Kamilov, **“Generative adversarial priors for image reconstruction,”** in processing.
 
 
-## 📚 Work and Internship Experience
-Teaching Assistant of Machine Learning 2020.9-2020.12 
-**Washington University in St. Louis**
+## 📚 Work Experience
+**Washington University in St. Louis**                       09/2020 - 12/2020 <br/>
+Teaching Assistant of Machine Learning        
 
-Senior Software Engineer and Team Leader/
-**Mentor Graphics Co., Ltd, Shenzhen Office** 
-04/2016 - 11/2019 
+**Mentor Graphics Co., Ltd, Shenzhen Office**                04/2016 - 11/2019 <br/>
+Senior Software Engineer and Team Leader<br/>  
 - Led the project of providing high-performance system verificationsolutions for the world’s first commercial 5G chipset 
 - Optimized testing code by transforming sequential execution to parallel execution,reducing runtime from 45 minutes to less than 8 minutes
 - Promoted the company’s new licensed technology(VeloceCoverageApp) for codecoverage; gave presentations on the annual technical forum at the Silicon Valley Headquarter and took charge of the training programming
 - Liaised between the Shenzhen office and the headquarters in Silicon Valley
 
-ASIC Design Engineer, 
-**Spreadtrum Communications Co., LTD, Shanghai Office 01/2015-04/2016**
+**Spreadtrum Communications Co., LTD, Shanghai Office**      01/2015-04/2016<br/>
+ASIC Design Engineer<br/>
 - Built-up and maintained module-level and chip-level emulation environment; leveraged popular simulation acceleration
 technology (like Palladium or Protium prototyping) in building a modularized and scalable simulation platform
 - Developed an emulation resource allocation program in Python to facilitate resource management, resulted in a 20% increase in device utilization rate; developed a Desktop GUI application to help engineers from the project team to use specific commands of our systems conveniently, freed our engineers from answering basic questions repeatedly
 
-New Product Introduction (NPI) Engineer, 
-**Freescale Semiconductor, Inc., 01/2013-01/2015**
+**Freescale Semiconductor, Inc.,** <br/>                     01/2013-01/2015<br/>
+New Product Introduction (NPI) Engineer<br/>
 - Responsible for product line management, new package assembly design, and packaging process optimization
 - Handled wafer mapping process; improved die bond machine capacity by 14.8% (from 3k to 3.45 die/hour)
 
