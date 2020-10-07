@@ -21,8 +21,8 @@ Guangyu Meng is a graduate student of Computer Science at the WashU Computationa
 
 
 # 📚 Research
-- Guangyu Meng,**“ Research on denoise by VAE-SRGAN”** accepted by IEEE International Conference on Control and Computer Vision (ICCCV)
 - Guangyu Meng, Zhiqian Chen, **“Abrupt Wavelet Network on the traffic accidents impact analysis,”** under review by 35th AAAI Conference on Artificial Intelligence.
+- Guangyu Meng,**“ Research on denoise by VAE-SRGAN”** accepted by IEEE International Conference on Control and Computer Vision (ICCCV).
 - Guangyu Meng, Jiaming Liu, U. S. Kamilov, **“Generative adversarial priors for image reconstruction,”** in processing.
 
 
