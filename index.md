@@ -6,7 +6,8 @@
 
 Tel: 314 745 1444，E-mail: Guangyu.Meng@wustl.edu
 
-Guangyu Meng is a graduate student of Computer Science at the WashU Computational Imaging Lab. His research interests include **Computer Vision**, especially in object detection, image segmentation and understanding, and image captioning. 
+Guangyu Meng is a graduate student of Computer Science at the WashU Computational Imaging Lab. <br/>
+His research interests include **Computer Vision**, especially in object detection, image segmentation and understanding, and image captioning. 
 
 
 ## 📚 Education
